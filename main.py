@@ -1,4 +1,3 @@
-# pra começo devo iniciar com tentativa e erro com um total de pontos a serem perdidos para cada erro.
 from jogo_da_forca.visual import *
 from jogo_da_forca.arquivos import *
 
